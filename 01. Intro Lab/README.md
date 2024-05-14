@@ -13,7 +13,7 @@ In this lab, you will learn how to use `Repl.it`. These will help you organize y
 
 2. Once you've created an account, click on the `+ Create Repl` button on the left.
    1. Now, choose `Python` as your Template!
-    2. For Title, write "Intro Lab - First & Last name"
+    2. For Title, write "Intro to CS - First & Last name"
     3. Lastly, click again on the `+ Create Repl` button.
     
 ![Team Tabs](lab1_0.png)
